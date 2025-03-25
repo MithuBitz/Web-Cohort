@@ -1,4 +1,4 @@
-myArray = [2, 5, 7, 9, 3];
+const myArray = [2, 5, 7, 9, 3];
 
 // Create a polyfills for map
 

@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#dynamic-box {
+  width: 200px;
+  height: 200px;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.startChange {
+  background-color: #0000ff;
+}
+
+.stopChange {
+  background-color: #00ffff;
+}

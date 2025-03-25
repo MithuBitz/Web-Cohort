@@ -1,0 +1,10 @@
+.top-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input-div {
+  padding: 5px 10px;
+}
